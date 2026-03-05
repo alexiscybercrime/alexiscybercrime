@@ -6,11 +6,12 @@ Soy un apasionado de la seguridad informática y la criminología, enfocado en c
 
 ---
 
-## 🚀 Mis Metas (Ruta 2026-2029)
+## 🚀 Mis Metas (Ruta 2026-2031)
 * **Educación:** Criminología y Criminalística en CEUNI.
-* **Certificaciones:** Google Cybersecurity, Cisco Networking, ISC2 (CC), OSCP.
+* **Certificaciones:** Google Cybersecurity, Cisco Networking, ISC2 (CC), OSCP.cissp,Sans
 * **Idiomas:** Inglés B2 (En proceso).
 * **Objetivo Final:** Formar parte de la división de delitos cibernéticos de INTERPOL.
+* Desarollar mi carrera tecnica en ciberseguridad bancaria,fusionado la criminologia con la defensa digital para blindar sistemas finacieros 
 
 ## 🛠️ Stack Técnico & Intereses
 - **Ciberseguridad:** Análisis de vulnerabilidades, OSINT, Forense Digital.
