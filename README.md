@@ -1,22 +1,26 @@
-# 🛡️ Hola, soy Alexis
+# Hola, soy Alexis 🛡️🕵️‍♂️
 
-### Analista en Ciberseguridad | Criminología | Perfilación Conductual
+### Analista de Amenazas Cibernéticas | Perfilación Conductual | Futuro Criminólogo
 
-
-Soy un apasionado de la seguridad informática y la criminología, enfocado en combatir delitos cometidos con Inteligencia Artificial. Mi misión es fusionar el análisis de patrones humanos con la defensa técnica.
+Soy un apasionado de la seguridad informática y la criminología, enfocado en combatir delitos cometidos con Inteligencia Artificial. Mi misión es fusionar el análisis de patrones humanos con la defensa técnica para crear un entorno digital más seguro.
 
 ---
 
-## 🚀 Ruta Profesional 2026-2029
-- **Meta:** Formar parte de la división de delitos cibernéticos de **INTERPOL**.
-- **Estudios:** Criminología y Criminalística en CEUNI.
-- **Enfoque:** Análisis de vulnerabilidades, OSINT y detección de microexpresiones.
+## 🚀 Mis Metas (Ruta 2026-2029)
+* **Educación:** Criminología y Criminalística en CEUNI.
+* **Certificaciones:** Google Cybersecurity, Cisco Networking, ISC2 (CC), OSCP.
+* **Idiomas:** Inglés B2 (En proceso).
+* **Objetivo Final:** Formar parte de la división de delitos cibernéticos de INTERPOL.
 
-## 🛠️ Laboratorio Técnico
-En este perfil documento mis avances en:
-- Resolución de máquinas de **VulnHub** y **Hack The Box**.
-- Análisis forense digital y patrones de abuso.
-- Configuración de entornos seguros en Linux.
+## 🛠️ Stack Técnico & Intereses
+- **Ciberseguridad:** Análisis de vulnerabilidades, OSINT, Forense Digital.
+- **Criminología:** Detección de microexpresiones y peritaje conductual.
+- **Tecnología:** Linux (Debian/Kali), Python para IA Ética.
+
+## 🎨 Más sobre mí
+- 🧩 Experto en Cubos Rubik.
+- 🎨 Dibujante y amante de la Historia y la Química.
+- 🚀 Fan del espacio y la NASA.
 
 ---
 "La disciplina es el puente entre las metas y los logros."
