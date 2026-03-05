@@ -18,7 +18,7 @@ Soy un apasionado de la seguridad informática y la criminología, enfocado en c
 - **Tecnología:** Linux (Debian/Kali), Python para IA Ética.
 
 ## 🎨 Más sobre mí
-- 🧩 Experto en Cubos Rubik.
+- 🧩 Fan de la musica clasica
 - 🎨 Dibujante y amante de la Historia y la Química.
 - 🚀 Fan del espacio y la NASA.
 
