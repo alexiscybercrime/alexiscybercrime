@@ -4,10 +4,11 @@
 Aquí están mis máquinas virtuales configuradas en mi Lenovo:
 
 
-<p align="center">
-  <img src="Captura de pantalla 2026-03-06 115114.jpg" width="100%">
-</p>
 
+
+![Mi Laboratorio](Captura%20de%20pantalla%202026-03-06%20115114.jpg)
+
+}
 ---
 
 ## 👤 Perfil Profesional
