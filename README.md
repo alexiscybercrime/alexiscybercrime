@@ -34,9 +34,9 @@ En la captura superior puedes ver mi entorno de trabajo actual en mi **Lenovo de
 
 
 
-* **Kali Linux:** Mi herramienta de ataque (izquierda  en la foto).
+* **Kali Linux:** Mi herramienta de ataque (derecha  en la foto).
 * **Kioptrix Lvl 1:** Mi primer objetivo de entrenamiento (Centro en la foto).
-* **Ubuntu:** Mi base de análisis de datos (derecha en la foto).
+* **Ubuntu:** Mi base de análisis de datos (izquierda en la foto).
 
 ---
 **Misión de vida:** Criminología, Ciberseguridad y protección familiar.
