@@ -1,16 +1,17 @@
-# ¡Hola, soy alexis! 👋
+# ¡Hola, soy Alexis! 👋 🛡️
 
-### 🛡️ Mi Laboratorio de Ciberseguridad
-Aquí están mis máquinas virtuales configuradas en mi Lenovo:
+### 💻 Mi Laboratorio de Ciberseguridad
+Aquí están mis máquinas virtuales configuradas en mi Lenovo de 16 GB RAM:
 
+<p align="center">
+  <img src="Captura de pantalla 2026-03-06 115114.jpg" width="100%">
+</p>
 
+* **Ubuntu (Izquierda):** Mi base de análisis de datos.
+* **Kioptrix Lvl 1 (Centro):** Mi primer objetivo de entrenamiento.
+* **Kali Linux (Derecha):** Mi herramienta de auditoría y ataque.
 
-
-![Mi Laboratorio](Captura%20de%20pantalla%202026-03-06%20115114.jpg)
-
-}
 ---
-
 ## 👤 Perfil Profesional
 
 **Analista de Amenazas Cibernéticas con especialidad en Perfilación Conductual**.
