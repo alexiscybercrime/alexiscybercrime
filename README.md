@@ -1,3 +1,46 @@
+# ¡Hola, soy alexis! 👋
+
+### 🛡️ Mi Laboratorio de Ciberseguridad
+Aquí están mis máquinas virtuales configuradas en mi Lenovo:
+
+
+<p align="center">
+  <img src="Captura de pantalla 2026-03-06 115114.jpg" width="100%">
+</p>
+
+---
+
+## 👤 Perfil Profesional
+
+**Analista de Amenazas Cibernéticas con especialidad en Perfilación Conductual**.
+
+Mi enfoque combina la **Ciberseguridad** técnica con la **Criminología**, utilizando habilidades en **análisis de microexpresiones**, detección de patrones de abuso e intuición basada en datos visuales. Mi misión es combatir delitos cometidos con IA y proteger la integridad familiar.
+
+### 💻 Sobre mi Laboratorio (La Imagen)
+En la captura superior puedes ver mi entorno de trabajo actual en mi **Lenovo de 16 GB RAM**:
+
+* **Ubuntu (Izquierda):** Mi estación principal para el "Laboratorio de Análisis de Datos" (Excel Avanzado / Power BI) y registro de patrones.
+* **Kioptrix Lvl 1 (Centro):** Entorno controlado para práctica de penetración y vulnerabilidades.
+* **Kali Linux (Derecha):** Herramienta avanzada para auditorías de seguridad y entrenamiento en OSINT.
+
+---
+
+### 🎓 Metas y Certificaciones en Progreso
+* **Certificaciones:** Google Cybersecurity, ISC2 y Cisco.
+* **Objetivo 2031:** Obtener el **CISSP**, alcanzar un nivel de inglés B2 y trabajar en **Interpol**.o banco intenacional 
+
+
+
+
+* **Kali Linux:** Mi herramienta de ataque (izquierda  en la foto).
+* **Kioptrix Lvl 1:** Mi primer objetivo de entrenamiento (Centro en la foto).
+* **Ubuntu:** Mi base de análisis de datos (derecha en la foto).
+
+---
+**Misión de vida:** Criminología, Ciberseguridad y protección familiar.
+
+
+
 # Hola, soy Alexis 🛡️🕵️‍♂️
 
 ### Analista de Amenazas Cibernéticas | Perfilación Conductual | Futuro Criminólogo
